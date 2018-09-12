@@ -1,4 +1,4 @@
-# install VSCode extensions
+# VSCode extensions for markdown
 
 1. Markdown+Math
 $$
